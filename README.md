@@ -1,3 +1,6 @@
+# README
+从 https://github.com/ManiiXu/VINS-Mono-Learning.git 上面的下载的，添加了一些注释
+
 # VINS-Mono-Learning
 
  VINS-Mono代码注释，仅供学习 
