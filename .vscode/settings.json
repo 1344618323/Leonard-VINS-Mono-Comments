@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "exception": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp",
+        "stdexcept": "cpp",
+        "fstream": "cpp",
+        "thread": "cpp"
+    }
+}
