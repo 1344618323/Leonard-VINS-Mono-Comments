@@ -1,5 +1,5 @@
 # README
-从 https://github.com/ManiiXu/VINS-Mono-Learning.git 上面的下载的，添加了一些注释
+原版注释下载自 https://github.com/ManiiXu/VINS-Mono-Learning.git ，学习过程中添加了一些注释。
 
 # VINS-Mono-Learning
 
